@@ -7,4 +7,7 @@ recently added updated views https://youtu.be/FzKO1fahthM
 
 recently added creative breif page to the site
      http://www.appiskey.com/order.php
-     In process . . .
+
+Managing wordpress blog posts
+     
+     
